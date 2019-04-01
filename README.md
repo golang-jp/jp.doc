@@ -12,7 +12,7 @@ Goはシンプルで信頼性が高く、効率的なソフトウェアを簡単
 
 ## Index
 
-* [Documents(./doc/*)](/doc/)
+* [Documents(./doc/*)](./doc/)
 * Package(./pkg/*)
 * The Project(./project/*)
 * Help(./help/*)

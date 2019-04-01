@@ -26,7 +26,7 @@ It's a fast, statically typed, compiled language that feels like a dynamically t
 
 ## Installing Go
 
-### [Getting Started](/doc/install/)  
+### [Getting Started](./install/)  
 
 [en]  
 Instructions for downloading and installing the Go compilers, tools, and libraries.  
