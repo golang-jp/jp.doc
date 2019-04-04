@@ -22,7 +22,7 @@ Goはマシンコードにすばやくコンパイルしますが、ガベージ
 It's a fast, statically typed, compiled language that feels like a dynamically typed, interpreted language.  
 
 [jp]  
-それは静的型付けのように早いコンパイル言語で、動的型付けを解釈した言語のようにコンパイル言語、高速で静的に型付けされコンパイルされた言語です。　　
+それは速く、静的型付けで、インタープリター型言語の動的型付けのようなコンパイル言語である。
 
 ## Installing Go
 
